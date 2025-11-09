@@ -13,11 +13,6 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Dioratic - AI Consultancy",
   description: "Transform your business with AI. Expert consultancy for AI integration, local models, and data solutions.",
-  icons: {
-    icon: '/logo.png',
-    shortcut: '/logo.png',
-    apple: '/logo.png',
-  },
 };
 
 export default function RootLayout({
