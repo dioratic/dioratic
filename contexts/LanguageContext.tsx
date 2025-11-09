@@ -34,15 +34,15 @@ const translations = {
     'services.title': 'Οι Υπηρεσίες μας',
     'services.subtitle': 'Προσαρμοσμένες λύσεις AI για την επιχείρησή σας',
     'services.viewall': 'Δείτε τες όλες',
-    'services.pricing': 'Προσαρμοσμένο',
+    'services.pricing': 'Προσαρμοσμένες τιμές',
     'services.learn': 'Μάθετε περισσότερα',
-    'services.ai.title': 'Ενσωμάτωση AI σε Ροές Εργασίας',
+    'services.ai.title': 'Ενσωμάτωση AI',
     'services.ai.desc': 'Αυτοματοποιήστε και βελτιστοποιήστε τις επιχειρησιακές σας διαδικασίες με προηγμένες λύσεις τεχνητής νοημοσύνης προσαρμοσμένες στις ανάγκες σας.',
-    'services.local.title': 'Τοπικά Μοντέλα AI',
+    'services.local.title': 'Τοπικά Μοντέλα',
     'services.local.desc': 'Αναπτύξτε και διαχειριστείτε ιδιωτικά, on-premise μοντέλα AI για μέγιστη ασφάλεια και έλεγχο των δεδομένων σας.',
-    'services.data.title': 'Καθαρισμός & Οργάνωση Δεδομένων',
+    'services.data.title': 'Καθαρισμός Δεδομένων',
     'services.data.desc': 'Μετατρέψτε τα ανοργάνωτα δεδομένα σας σε καθαρές, δομημένες πληροφορίες έτοιμες για ανάλυση και AI training.',
-    'services.consulting.title': 'Συμβουλευτικές Υπηρεσίες AI',
+    'services.consulting.title': 'Συμβουλευτικές Υπηρεσίες',
     'services.consulting.desc': 'Στρατηγικές συμβουλές για να αξιοποιήσετε στο έπακρο τις δυνατότητες της τεχνητής νοημοσύνης στον κλάδο σας.',
     
     // About
@@ -85,10 +85,10 @@ const translations = {
     // Footer
     'footer.tagline': 'Φέρνοντας το μέλλον της AI στην επιχείρησή σας',
     'footer.rights': 'Με επιφύλαξη παντός δικαιώματος.',
-    'footer.services.ai': 'Ενσωμάτωση AI σε Ροές Εργασίας',
-    'footer.services.local': 'Τοπικά Μοντέλα AI',
+    'footer.services.ai': 'Ενσωμάτωση AI',
+    'footer.services.local': 'Τοπικά Μοντέλα',
     'footer.services.data': 'Καθαρισμός Δεδομένων',
-    'footer.services.consulting': 'Συμβουλευτικές Υπηρεσίες AI',
+    'footer.services.consulting': 'Συμβουλευτικές Υπηρεσίες',
   },
   en: {
     // Navigation
